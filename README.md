@@ -13,6 +13,6 @@ The deamon reads the hosts-file on startup (aliases must be recreated after each
 reboot), and whenever the file changes.
 
 [127]: https://github.com/lende/127
-[loopback addreses]: https://en.wikipedia.org/wiki/Localhost#Name_resolution
+[loopback addresses]: https://en.wikipedia.org/wiki/Localhost#Name_resolution
 [hosts-file]: https://en.wikipedia.org/wiki/Hosts_(file)
 [Super User question]: https://superuser.com/questions/458875/
